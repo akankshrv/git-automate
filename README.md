@@ -2,7 +2,7 @@
 
 Following commands can be used :
 
-Command to compile the Rust project with optimizations for release builds<br/>
+#Command to compile the Rust project with optimizations for release builds<br/>
 
 cargo build --release
 
