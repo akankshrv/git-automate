@@ -2,11 +2,13 @@
 
 Following commands can be used :
 
-#Command to compile the Rust project with optimizations for release builds
+<!--Command to compile the Rust project with optimizations for release builds--!>
+
 cargo build --release
 
-#Command to install or reinstall a package from the current directory
+<!--Command to install or reinstall a package from the current directory--!>
+
 cargo build --release
 
-#Now you can successfully add,commit and push all changes by the following command
+<!--Now you can successfully add,commit and push all changes by the following command--!>
 git-automate
