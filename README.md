@@ -1,4 +1,4 @@
-# This project successfully adds,commits and pushes all changes to git repo.
+# This project successfully adds,commits and pushes all changes to git repo
 
 Following commands can be used :
 
